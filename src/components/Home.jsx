@@ -6,13 +6,8 @@ import pic from "../images/harsha_pic1.png"
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import AboutMe from './AboutMe'
 import { mobile, tablet } from '../responsive'
 import {delay, motion} from 'framer-motion'
-import Education from './Education'
-import Skills from './Skills'
-import Projects from './Projects'
-import ContactMe from './ContactMe'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import resume from '../images/Harsha_Resume_III_II.pdf'
 // import axios from 'axios'
@@ -218,7 +213,6 @@ const Home = () => {
     },[loading]);
 
   return (
-    <>
     <Container id='Home'>
     
        <Navbar/> {/*  display links here */}
@@ -318,12 +312,6 @@ const Home = () => {
 </div> */}
     
     </Container>
-     <AboutMe/>
-    <Education/>
-    <Skills/> 
-    <Projects/>
-    <ContactMe/>
-    </>
   )
 }
 
