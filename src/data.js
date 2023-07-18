@@ -59,7 +59,7 @@ export const projectsData=[
         img:img2,
         title:"Portfolio",
         // This portfolio website describes about me and my work.
-        desc:" I have used Framer-Motion for animations & React-Anchor-Link-Smooth-Scroll for smooth scolling & emailjs for sending mails. ",
+        desc:" I have used Framer-Motion for animations & React-Anchor-Link-Smooth-Scroll for smooth scrolling & emailjs for sending mails. ",
         tech:["React","CSS","framer-Motion"],
         srcLink:"https://github.com/Harsha335/Portfolio",
         viewLink:"https://harsha335.github.io/Portfolio/"
