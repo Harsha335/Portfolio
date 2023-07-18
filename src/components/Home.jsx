@@ -263,7 +263,7 @@ const Home = () => {
                     steps={["Enthustic Dev",2000,"Front-End Developer",2000]}
                 /> */}
                 <ReactTyped
-                    strings={["Enthustic Dev","Programmer","Front-End Developer"]}
+                    strings={["Enthusiastic Dev","Programmer","Front-End Developer"]}
                     typeSpeed={100}
                     loop
                     backSpeed={20}

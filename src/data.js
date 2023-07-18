@@ -49,7 +49,7 @@ export const projectsData=[
         id:1,
         img:img1,
         title:"Tic Tac Toe",
-        desc:"This is well know game, Tic Tac Toe. I have developed both ai vs human and offline mode. Rules are also mention for the people who new to the game. ",
+        desc:"This is a well known game, Tic Tac Toe. I have developed both ai vs human and offline modes. Rules are also mentioned for the people who are new to the game. ",
         tech:["React","CSS"],
         srcLink:"https://github.com/Harsha335/tic-tac-toe",
         viewLink:"https://harsha335.github.io/tic-tac-toe/"
@@ -59,7 +59,7 @@ export const projectsData=[
         img:img2,
         title:"Portfolio",
         // This portfolio website describes about me and my work.
-        desc:" I have used Framer-Motion for animations & React-Anchor-Link-Smooth-Scroll for smooth scrolling & emailjs for sending mails. ",
+        desc:" I have used Framer-Motion for animations & React-Anchor-Link-Smooth-Scroll for smooth scrolling & email-js for sending mails. ",
         tech:["React","CSS","framer-Motion"],
         srcLink:"https://github.com/Harsha335/Portfolio",
         viewLink:"https://harsha335.github.io/Portfolio/"

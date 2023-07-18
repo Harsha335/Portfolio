@@ -154,7 +154,7 @@ const AboutMe = () => {
             </Picture>
             <Details>
               <div id='top'>
-                Front end developer and a Programmer intrested in problem soving.Enthusastic in knowing new technologies.
+                Front end developer and a Programmer intrested in problem solving.Enthusiastic in knowing new technologies.
                  Strong professional with a BTech degree willing to be an asset for an organization.
               </div>
               <div id='middle'>

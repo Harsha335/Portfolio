@@ -171,7 +171,7 @@ const Education = () => {
                         Secondary School Education
                     </div>
                     <div>
-                        Little Angles English Medium School | Palamaner
+                        Little Angels English Medium School | Palamaner
                     </div>
                     <div>
                         cgpa : 9.5
