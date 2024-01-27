@@ -1,5 +1,6 @@
 import img1 from "./images/TicTacToe.png"
 import img2 from "./images/Portfolio.png"
+import img3 from "./images/Blogs.png"
 export const ProgrammingSkills=[
     {
         id:1,
@@ -64,4 +65,13 @@ export const projectsData=[
         srcLink:"https://github.com/Harsha335/Portfolio",
         viewLink:"https://harsha335.github.io/Portfolio/"
     },
+    {
+        id: 3,
+        img: img3,
+        title:"Blogs Application",
+        desc:"Our blog app, powered by MongoDB and Node.js with Express, empowers admins to manage posts seamlessly, while ensuring public access to a diverse range of content.",
+        tech:["NodeJs","Express","MongoDb","Ejs"],
+        srcLink:"https://github.com/Harsha335/Blogs",
+        viewLink:"https://github.com/Harsha335/Blogs"
+    }
 ]
